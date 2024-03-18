@@ -24,15 +24,19 @@ This is a sample e-shop web application for selling electronic components and de
 
    ```bash
    git clone <repository-url>
+   ```
 2. Navigate to the project directory:
   ```bash
   cd My-shop
+   ```
 3. Install dependencies:
   ```bash
   npm install
+```
 4. Run development server:
    ```bash
     npm run dev
+   ```
 ## Available Scripts
 
 In the project directory, you can run:
